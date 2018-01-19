@@ -1,7 +1,6 @@
 {
     "name": "vrkothekar/sms",
     "description": "a simple sms sending package",
-    "type": "composer-plugin",
     "license": "MIT",
     "authors": [
         {
