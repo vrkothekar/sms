@@ -1,0 +1,19 @@
+{
+    "name": "vrkothekar/sms",
+    "description": "a simple sms sending package",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vishal Kothekar",
+            "email": "vishalrkothekar@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "VRKOTHEKAR\\SMS\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
